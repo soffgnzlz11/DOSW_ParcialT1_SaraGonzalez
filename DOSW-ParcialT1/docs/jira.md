@@ -35,6 +35,8 @@
 | **ID de la Historia de Uso asociada** | HU-01 |
 | **Descripción** | Desarrollar la validacion de las materias del estudiante con su ID para mostrar los tutores disponibles.  |
 | **Tareas requisito** | ninguna |
+<img width="565" height="498" alt="image" src="https://github.com/user-attachments/assets/d70b1e30-9644-4877-86c9-1c71584414c4" />
+
 
 | Campo | Descripción |
 |------|-------------|
@@ -43,13 +45,17 @@
 | **ID de la Historia de Uso asociada** | HU-01 |
 | **Descripción** | Desarrollar el endpoint y la logica para registrar la solicitud en el sistema. |
 | **Tareas requisito** | TR-01 |
+<img width="513" height="522" alt="image" src="https://github.com/user-attachments/assets/3f7e92f9-351b-4403-887e-9c939ec71118" />
+
 
 | Campo | Descripción |
 |------|-------------|
 | **ID** | TR-03 |
-| **Título** | Implementar listado/seleccion de equipos |
+| **Título** | Implementar preferencias |
 | **ID de la Historia de Uso asociada** | HU-01 |
-| **Descripción** | Desarrollar la recepcion de preferencias del estudiante para asignarle un tutor |
+| **Descripción** | Desarrollar la recepcion de preferencias del estudiante para asignarle el mejor tutor. |
 | **Tareas requisito** | TR-01 |
+<img width="536" height="494" alt="image" src="https://github.com/user-attachments/assets/ebd30591-030e-494c-be18-4eeacc093356" />
+
 
 
