@@ -102,8 +102,8 @@ https://dosw2026-2.atlassian.net/jira/software/projects/PSGT1/boards/4/backlog?s
 
 
 
-### Ultimo Punto Patrones de diseño
-## Diseño de Software y Patrones 
+# Diseño de Software y Patrones
+ 
 Identifique 2 patrones de diseño aplicables a este caso de estudio (por ejemplo, uno para 
 la estrategia de selección de preferencia y otro para aislar la interoperabilidad con los 
 sistemas externos). Especifique: 
