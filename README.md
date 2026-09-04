@@ -13,8 +13,8 @@ El sistema TutoEci tiene los siguientes requerimientos para mejorar la experienc
 
 El sistema de Bankify debe tener la capacidad de:
 
-1. El sistema TutoECI debe permitir a un Solicitantes (Estudiantes de Pregrado) solicitar una tutoria con preferencia de tutor.
-2. El sistema debe enviar una notificación una vez la reserva sea asugnada y confirmada.
+1. El sistema TutoECI debe permitir a un Solicitantes (Estudiantes de Pregrado) solicitar una tutoria con un Tutor - Profesor.
+2. El sistema TutoECI debe permitir a un Solicitantes (Estudiantes de Pregrado) solicitar una tutoria con un Tutor - Estudiante.
 3. El sistema debe reservar a los Tutores-Profesores por 30 minutos.
 
 ### 1.2 Requerimientos no funcionales
