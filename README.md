@@ -4,10 +4,10 @@
 
 ### Parte 2 Requerimientos
 -Funcionales
-  1. El sistema TutoECI debe permitir a un Solicitantes (Estudiantes de Pregrado)      solicitar una tutoria unicamente si se esta inscrito activamente en la
-     materia.
-  3. El sistema debe enviar una notificación una vez la reserva sea asugnada y         confirmada.
-  4. El sistema debe reservar a los Tutores-Profesores por 30 minutos.
+  1.El sistema TutoECI debe permitir a un Solicitantes (Estudiantes de Pregrado)
+  solicitar una tutoria con preferencia de tutor.
+  2. El sistema debe enviar una notificación una vez la reserva sea asugnada y         confirmada.
+  3. El sistema debe reservar a los Tutores-Profesores por 30 minutos.
 
 -No Funcionales
   1. El sistema debe incorporar la paleta de colores oficial del programa de           Ingeniería de Sistemas de la Escuela.
